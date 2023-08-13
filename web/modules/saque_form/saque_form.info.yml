@@ -1,0 +1,5 @@
+name: saque_form
+type: module
+description: Formulário de Saques que implementa o algoritmo para contagem mínima de cédulas.
+package: Custom
+core_version_requirement: ^9 || ^10

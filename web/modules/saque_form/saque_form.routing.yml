@@ -1,0 +1,7 @@
+saque_form.saque:
+  path: '/saque'
+  defaults:
+    _title: 'Saque'
+    _form: 'Drupal\saque_form\Form\SaqueForm'
+  requirements:
+    _permission: 'access content'
